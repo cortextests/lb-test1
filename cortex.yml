@@ -1,0 +1,9 @@
+openapi: 3.0.0
+info:
+  title: LB CortexTest 4
+  description: CortexTest A description
+  version: 1.0.0
+  x-cortex-git:
+    github:
+      repository: cortextests/lb-test1
+  x-cortex-tag: lb-test1
