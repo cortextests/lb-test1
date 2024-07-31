@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: LB CortexTest 4
-  description: CortexTest A description123
+  description: CortexTest A description12345
   version: 1.0.0
   x-cortex-git:
     github:
